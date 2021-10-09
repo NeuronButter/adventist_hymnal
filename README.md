@@ -1,3 +1,4 @@
+# This repo was forked as a backup of the original copy, in case it ever goes down.
 # adventist_hymnal
 Adventist Hymnal Text, Import Files & Utilities
 
